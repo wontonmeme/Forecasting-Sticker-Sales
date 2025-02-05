@@ -23,7 +23,7 @@ Final MAPE Scores on Kaggle:
 | Elastic Net | 0.11654
 | SARIMAX plus public model | 0.9086
 
-When I compare my Scores to the leaderboard, my worst score would put me above 79% of the 2723 participants.
+When I compare my Scores to the leaderboard, my worst score would put me above 79% of the 2723 participants at 2025-02-04.
 
 ## Data Information
 | Data | Description
